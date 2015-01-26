@@ -1,0 +1,23 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+The style file: unsrtnat.bst
+Database file #1: Bibliography.bib
+I was expecting a `,' or a `}'---line 43 of file Bibliography.bib
+ :  
+ :  Year = {2015}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 49 of file Bibliography.bib
+ :  
+ :  url={https://www.abiresearch.com/press/more-than-30-billion-devices-will-wirelessly-conne}
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty author in n_idosos
+Warning--empty title in n_idosos
+Warning--empty journal in n_idosos
+Warning--empty year in n_idosos
+Warning--empty year in n_idosos
+Warning--empty author in iot
+Warning--empty journal in iot
+Warning--empty year in iot
+Warning--empty year in iot
+(There were 2 error messages)

@@ -1,0 +1,38 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Arnold et~al.(1998)Arnold, Wilson, and Boshier]{joao}
+João~Pedro Arnold, Maria Wilson, and Tó Boshier.
+\newblock A simple extended-cavity diode laser.
+\newblock \emph{Review of Scientific Instruments}, 69\penalty0 (3):\penalty0
+  1236--1239, March 1998.
+\newblock URL \url{http://link.aip.org/link/?RSI/69/1236/1}.
+
+\bibitem[Wieman and Hollberg(1991)]{jose}
+José~Carl Wieman and Leo Hollberg.
+\newblock Using diode lasers for atomic physics.
+\newblock \emph{Review of Scientific Instruments}, 62\penalty0 (1):\penalty0
+  1--20, January 1991.
+\newblock URL \url{http://link.aip.org/link/?RSI/62/1/1}.
+
+\bibitem[n_i()]{n_idosos}
+URL
+  \url{http://www.jn.pt/PaginaInicial/Sociedade/Interior.aspx?content_id=3124868[Online]}.
+
+\bibitem[iot()]{iot}
+More than 30 billion devices will wirelessly connect to the internet of
+  everything in 2020 [online].
+
+\bibitem[Parati~G(2004)]{review}
+Mancia~G. Parati~G, Bilo~G.
+\newblock Blood pressure measurement in research and in clinical practice:
+  recent evidence.
+\newblock \emph{Curr Opin Nephrol Hypertens}, 13\penalty0 (3):\penalty0
+  343--57, May 2004.
+\newblock URL \url{http://link.aip.org/link/?RSI/72/4477/1}.
+
+\end{thebibliography}
